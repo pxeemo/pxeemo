@@ -4,9 +4,9 @@ My name is Shayan with the username of pxeemo, from Iran.
 
 ## About me
 
-📚 I'm currently learning Vue.js
-
-🎯 Goals: Nuxt.js, Android
+📚 I'm currently learning Vue.js<br>
+🎯 Goals: Nuxt.js, Android<br>
+⚕️ Fun fact: I like karaoke lyrics
 
 ###
 
